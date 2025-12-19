@@ -4,6 +4,9 @@
 - JSON and RESX
 - several validity checks incorporated
 
+<img width="250" height="250" alt="localizer small" src="https://github.com/user-attachments/assets/ce78bf70-6608-4afe-92bc-9c999ad70048" />
+
+
 ## Easy and straightforward
 - ever had the hussle to translate Copilot Studio language localization files?
 - import this agent to ease the pain
