@@ -1,5 +1,8 @@
 # JSON localizer
-Containing solution file to to set up an agent in Copilot Studio which translates language sources stored in JSON
+- just import the zip in Copilot Studio to
+- set up an agent which translates language localization files
+- JSON and RESX
+- several validity checks incorporated
 
 ## Easy and straightforward
 - ever had the hussle to translate Copilot Studio language localization files?
