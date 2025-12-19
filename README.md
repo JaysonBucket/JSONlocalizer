@@ -6,9 +6,26 @@
 
 <img width="250" height="250" alt="localizer small" src="https://github.com/user-attachments/assets/ce78bf70-6608-4afe-92bc-9c999ad70048" />
 
+Goal / Value proposition 
+- save time through automated translation of Copilot Studio Agents topic localization
+- speed up setup & development iterations by fast results
+- deliver quality results without extensive need to doublecheck
+- make sure that target-language is supported by Copilot Studio
+
+Solution
+- nifty agent which makes the job
+- giving flexibility in languages
+- possibility to parallelize localization creation 
+
+Problem Statement:
+- multi-language agents need a localized language JSON for great experience
+- all interactions and especially conversation starters etc. need to be available in addtl. language
+- currently there is no easy and fast way to achieve it within Copilot Studio
+- JSON needs to be downloaded, according entries need to be found, translated, JSON then to be uploaded again
+- automated translation often is risky as lines or code is getting lost in translation or the LLM begins to change parts which are not to be changed
+- the result is a non-functional JSON and / or high timely effort
 
 ## Easy and straightforward
-- ever had the hussle to translate Copilot Studio language localization files?
 - import this agent to ease the pain
 - gain speed in multi-language agent setups
 - incorporates several mechanisms to make sure you're getting a complete result
